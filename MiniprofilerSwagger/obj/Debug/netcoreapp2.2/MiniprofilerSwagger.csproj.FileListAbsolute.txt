@@ -1,0 +1,14 @@
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\bin\Debug\netcoreapp2.2\MiniprofilerSwagger.deps.json
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\bin\Debug\netcoreapp2.2\MiniprofilerSwagger.runtimeconfig.json
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\bin\Debug\netcoreapp2.2\MiniprofilerSwagger.runtimeconfig.dev.json
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\bin\Debug\netcoreapp2.2\MiniprofilerSwagger.dll
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.csprojAssemblyReference.cache
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.csproj.CoreCompileInputs.cache
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.RazorAssemblyInfo.cache
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.RazorAssemblyInfo.cs
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.AssemblyInfoInputs.cache
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.AssemblyInfo.cs
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\bin\Debug\netcoreapp2.2\MiniprofilerSwagger.pdb
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.dll
+C:\Users\rsurmay\source\repos\MiniprofilerSwagger\MiniprofilerSwagger\obj\Debug\netcoreapp2.2\MiniprofilerSwagger.pdb
